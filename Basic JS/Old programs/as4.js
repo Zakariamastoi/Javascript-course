@@ -1,0 +1,11 @@
+let p=1000;
+var charity=p*0.10;
+console.log("Charity is", " ", charity);
+var np = p-charity;  
+var Abid = np*0.50; 
+var Blial = np*0.30;
+var Kashif = np*0.20;
+console.log("net profit is" , " " ,np);
+console.log("Share of Abid is" , " ", Abid);
+console.log("Share of bilal is" , " ", Blial);
+console.log("Share of kashif is" , " ", Kashif);
